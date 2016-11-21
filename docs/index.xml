@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>کلاستر دوامی</title>
+    <link>http://hpc.tafreshu.ac.ir/docs/index.xml</link>
+    <description>Recent content on کلاستر دوامی</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fa-IR</language>
+    <copyright>Released under the GPLv3&#43; license</copyright>
+    <lastBuildDate>Tue, 08 Mar 2016 21:07:13 +0100</lastBuildDate>
+    <atom:link href="http://hpc.tafreshu.ac.ir/docs/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>خوش‌آمد گویی</title>
+      <link>http://hpc.tafreshu.ac.ir/docs/</link>
+      <pubDate>Tue, 08 Mar 2016 21:07:13 +0100</pubDate>
+      
+      <guid>http://hpc.tafreshu.ac.ir/docs/</guid>
+      <description>
+
+&lt;h2 id=&#34;سایت-هنوز-کامل-نیست&#34;&gt;سایت هنوز کامل نیست&lt;/h2&gt;
+
+&lt;h2 id=&#34;مقدمه&#34;&gt;مقدمه&lt;/h2&gt;
+
+&lt;p&gt;کلاستر دانشگاه &lt;a href=&#34;http://tafreshu.ac.ir&#34;&gt;تفرش&lt;/a&gt; با همکاری گروه &lt;a href=&#34;http://nrtc.ir&#34;&gt;ان‌آرتی‌سی&lt;/a&gt; تنظیم شد.
+این کار در سال ۱۳۹۵ و به همت آقای امیرحسین فیروزیان و یک هفته کار انجام گشت.
+این کلاستر به افتخار
+&lt;a href=&#34;https://fa.wikipedia.org/wiki/%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%84%D9%87_%D8%AF%D9%88%D8%A7%D9%85%DB%8C&#34;&gt;عبدالله دوامی&lt;/a&gt; ردیفدان
+و موسیقی‌دان تفرش انتخاب شد.&lt;/p&gt;
+
+&lt;p&gt;در این صفحه چگونگی استفاده از کلاستر به همراه راهنمای کامل ارائه گشته است. تمامی توان گروه و دانشگاه بر این است تا بتواند
+بستری مناسب برای محققین و اندیشمندان فراهم آورد تا دانش اندوزی و افروزی بنمایید.
+ما نه تنها در گروه حامی آزادی اطلاعات هستیم بلکه انرژی خود را معطوف به پیشرفت ایران برای زندگی راحت‌تر
+مردم کرده‌ایم و امید داریم تا قدم کوچکمان برای مردمی به غایت نجیب بتواند مفید باشد
+انشاالله&lt;/p&gt;
+
+&lt;p&gt;امیرحسین فیروزیان&lt;/p&gt;
+
+&lt;h2 id=&#34;چیستی-و-چرایی-کلاستر&#34;&gt;چیستی و چرایی کلاستر&lt;/h2&gt;
+
+&lt;p&gt;پیشرفت نظریه محاسبه و همچنین فیزیک در نیم قرن گذشته چشم‌انداز نوینی برای بشر و بشریت باز کرده. &lt;a href=&#34;https://en.wikipedia.org/wiki/Heinrich_Hertz&#34;&gt;هرتز&lt;/a&gt;
+هنگامی که در آزمایشگاه خود موج الکترو مغناطیس را مشاهده کرد شاید نمی‌توانست چیزی بجز آنکه روی میزش قرار دارد را تصور کند.
+امروزه آزمایشگا‌های ما لباسی نو به خود گرفته و آن تغییر شگرف در ابزار محاسبه ماست.
+از زمان ارسطو تا خوارزمی و بعد از آن تورینگ بشر راه درازی پیموده که محصول آن امروزه
+فرا روی شماست.&lt;/p&gt;
+
+&lt;p&gt;کم شدن نیاز به آزمایشگاه‌های فیزیکی و افزایش نیاز به آزمایشگاه‌های محاسباتی،
+شرکت‌های نیم‌هادی را به آن داشت تا خود را به تغییرات همسو کنند. این تغییرات سریع
+در تمامی صورت‌های زندگی شما مشهود است. ما امروزه بانک‌های اطلاعاتی با سرعت‌های
+بسیار زیادی داریم که درخواست‌های میلیون‌ها نفر را در سرتاسر جهان مدیریت می‌کنند.
+به فیس‌بوک نگاه کنید که چگونه نیمی از جمعیت جهان به عضویتش در آمده‌اند.
+این قدرت پردازش و ذخیره‌سازی حتی اعجاب انگیز است.&lt;/p&gt;
+
+&lt;p&gt;کلاستر مفهومی است که برای دسته‌ای از محاسبات کارآمد است. مثال فیس‌بوک را به خاطر آورید. در این
+نوع خدمت رسانی می‌توان برای تعداد مشخصی از افراد یک رایانه قرار داد تا پاسخگو آن دسته باشد.
+اگرچه که این بدترین راه حل برای خدمت‌رسانی است اما این مسئله &lt;strong&gt;قابل&lt;/strong&gt; موازی سازی است
+مسائلی در علم رایانش را بتوان که به چند مسئله کوچکتر شکست و هر کدام را با یک رایانه حل و سپس به هم چسباند
+جز مسائل موازی طبقه بندی می‌شوند.&lt;/p&gt;
+
+&lt;h2 id=&#34;مشخصات-فنی&#34;&gt;مشخصات فنی&lt;/h2&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;center&#34;&gt;Patrition&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;# Computers&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;# CPU&amp;rsquo;s Threads&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;RAM&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Newton&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;12&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;16&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;34 GiB&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;*هنوز اجرایی نشده&lt;/p&gt;
+
+&lt;h2 id=&#34;مزایا&#34;&gt;مزایا&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;ارائه زمان کمتر برای مسائلی که حل آن با رایانه معمولی زمان بیشتر نیاز دارد&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;انجام محاسبات بر بستری خارج از کامپیوتر خود که پایداری آن بیشتر است&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;بررسی تیم‌های تخصصی برای عیب‌یابی‌ها&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;قدردانی&#34;&gt;قدردانی&lt;/h2&gt;
+
+&lt;p&gt;شرکت ان‌ارتی‌سی لازم می‌داند مراتب قدردانی خود را از دانشگاه صنعتی شاهرود و به طور مشخص آقای دکتر
+&amp;mdash; اعلام نمایید.&lt;/p&gt;
+
+&lt;p&gt;این شرکت همچنین لازم می‌داند از آقای مهدی تفرشی که برای راه اندازی این وب‌سایت کمک نمودند تشکر نماید.&lt;/p&gt;
+
+&lt;p&gt;همچنین لازم است از آقای مهدی فقیه نصیری مدیر شرکت ان‌ارتی‌سی قدردانی نمود.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>شروع کنیم</title>
+      <link>http://hpc.tafreshu.ac.ir/docs/%D8%B4%D8%B1%D9%88%D8%B9-%D8%A8%D9%87-%DA%A9%D8%A7%D8%B1/</link>
+      <pubDate>Wed, 09 Mar 2016 00:11:02 +0100</pubDate>
+      
+      <guid>http://hpc.tafreshu.ac.ir/docs/%D8%B4%D8%B1%D9%88%D8%B9-%D8%A8%D9%87-%DA%A9%D8%A7%D8%B1/</guid>
+      <description>
+
+&lt;h2 id=&#34;ورود-به-سامانه-کلاستر-از-ویندوز&#34;&gt;ورود به سامانه کلاستر (از ویندوز)&lt;/h2&gt;
+
+&lt;p&gt;روش ورود به کلاستر با اس‌اس‌اچ است. برای ورود در کامپیوترهای ویندوزی باید نرم‌افزار &lt;a href=&#34;https://the.earth.li/~sgtatham/putty/latest/x86/putty-0.67-installer.msi&#34;&gt;پاتی&lt;/a&gt;
+را دانلود نمایید&lt;/p&gt;
+
+&lt;p&gt;بعد از دانلود مطابق عکس آدرس‌های زیر را وارد کنید&lt;/p&gt;
+
+&lt;div style=&#34;text-align:center&#34;&gt;&lt;img src =&#34;putty/putty-login-screen.png&#34; /&gt;&lt;/div&gt;
+
+&lt;p&gt;به جای فلس باید عبارت زیر را وارد کنید و به جای &lt;strong&gt;یوزرنیم&lt;/strong&gt; عبارتی که برای شما به عنوان نام کاربری ذکر شده است را وارد کنید&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;USERNAME@login.hpc.tafreshu.ac.ir
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;بعد از درخواست، &lt;strong&gt;پسورد آن را وارد کنید&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;ورود-به-سامانه-کلاستر-از-گنو-لینوکس&#34;&gt;ورود به سامانه کلاستر (از گنو/لینوکس)&lt;/h2&gt;
+
+&lt;p&gt;کافی است در خط فرمان دستور زیر را وارد و به جای &lt;strong&gt;یوزرنیم&lt;/strong&gt; نام کاربری خود را بزنید&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;ssh USERNAME@login.hpc.tafreshu.ac.ir
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;بعد از درخواست، &lt;strong&gt;پسورد آن را وارد کنید&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;موفقیت-بعد-از-ورود&#34;&gt;موفقیت بعد از ورود&lt;/h2&gt;
+
+&lt;p&gt;اگر شما وارد کلاستر شدید به شما پیام خوش‌امد گویی می‌دهد. لطفا قبل از کار با آن &lt;a href=&#34;http://hpc.tafreshu.ac.ir/docs/%D9%82%D9%88%D8%A7%D9%86%DB%8C%D9%86/&#34;&gt;قوانین&lt;/a&gt; را به دقت بخوانید&lt;/p&gt;
+
+&lt;h2 id=&#34;برنامه-ها-نصب-شده&#34;&gt;برنامه‌ها نصب شده&lt;/h2&gt;
+
+&lt;p&gt;کلاستر صالحی یک کلاستر یک‌پارچه است؛ به این معنا که انجام وظیفه برنامه شما ممکن است توسط هر کامپیوتر رخ دهد که خالی باشد.
+این چندین خوبی و یک بدی نیز دارد.
+بدی آن این است که برنامه‌ها تنها توسط ما باید نصب گردد. زیرا این ماشین با مجازی ساز کار نمی کند تا شما بتوانید ماشین خود را تنظیم کنید. شاید
+با خود بگویید که خوب نباشد اما این گونه نیست. فرض کنید ما کلاستر را به ۲۰ ماشین مجازی تقسیم کنیم؛ در این صورت
+شما تنها می‌توانید از ماشین خود استفاده کنید و خیلی محدود. حال که در سامانه ما شما به تمام ماشین‌ها دسترسی دارید و هنگامی که خالی باشد برنامه شما
+روی کل ماشین اجرا می‌گردد&lt;/p&gt;
+
+&lt;p&gt;لیست برنامه‌های نصب شده&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;center&#34;&gt;Software&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;Version&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Quantum Espresso&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;5.1&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;SIESTA&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;4.0&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;MATLAB&amp;reg;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;R2014b&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&#34;سامانه-مدیریت-جاب&#34;&gt;سامانه مدیریت جاب&lt;/h2&gt;
+
+&lt;p&gt;کلاستر شاهرود از سامانه مدیریت جاب بسیار قدرتمند بهره می‌برد که تاکنون در کشور از آن استفاده نشده. این سامانه همانند &lt;a href=&#34;https://en.wikipedia.org/wiki/TORQUE&#34;&gt;تورک&lt;/a&gt; است ولی قدرت بسیار بیشتری دارد&lt;/p&gt;
+
+&lt;p&gt;هدف از طراحی این وب‌سایت روش استفاده از این سامانه است.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>جابجایی فایل</title>
+      <link>http://hpc.tafreshu.ac.ir/docs/%D8%AC%D8%A7%D8%A8%D8%AC%D8%A7%DB%8C%DB%8C-%D9%81%D8%A7%DB%8C%D9%84/</link>
+      <pubDate>Wed, 09 Mar 2016 19:56:50 +0100</pubDate>
+      
+      <guid>http://hpc.tafreshu.ac.ir/docs/%D8%AC%D8%A7%D8%A8%D8%AC%D8%A7%DB%8C%DB%8C-%D9%81%D8%A7%DB%8C%D9%84/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>چشم انداز</title>
+      <link>http://hpc.tafreshu.ac.ir/docs/%DA%86%D8%B4%D9%85-%D8%A7%D9%86%D8%AF%D8%A7%D8%B2/</link>
+      <pubDate>Wed, 09 Mar 2016 20:08:11 +0100</pubDate>
+      
+      <guid>http://hpc.tafreshu.ac.ir/docs/%DA%86%D8%B4%D9%85-%D8%A7%D9%86%D8%AF%D8%A7%D8%B2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>قوانین</title>
+      <link>http://hpc.tafreshu.ac.ir/docs/%D9%82%D9%88%D8%A7%D9%86%DB%8C%D9%86/</link>
+      <pubDate>Wed, 09 Mar 2016 20:10:46 +0100</pubDate>
+      
+      <guid>http://hpc.tafreshu.ac.ir/docs/%D9%82%D9%88%D8%A7%D9%86%DB%8C%D9%86/</guid>
+      <description>
+
+&lt;h2 id=&#34;شرایط-استفاده&#34;&gt;شرایط استفاده&lt;/h2&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

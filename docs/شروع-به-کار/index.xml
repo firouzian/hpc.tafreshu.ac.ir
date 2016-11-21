@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>شروع-به-کار-rsses on کلاستر دوامی</title>
+    <link>http://hpc.tafreshu.ac.ir/docs/%D8%B4%D8%B1%D9%88%D8%B9-%D8%A8%D9%87-%DA%A9%D8%A7%D8%B1/index.xml</link>
+    <description>Recent content in شروع-به-کار-rsses on کلاستر دوامی</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fa-IR</language>
+    <copyright>Released under the GPLv3&#43; license</copyright>
+    <lastBuildDate>Wed, 09 Mar 2016 00:11:02 +0100</lastBuildDate>
+    <atom:link href="http://hpc.tafreshu.ac.ir/docs/%D8%B4%D8%B1%D9%88%D8%B9-%D8%A8%D9%87-%DA%A9%D8%A7%D8%B1/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>شروع کنیم</title>
+      <link>http://hpc.tafreshu.ac.ir/docs/%D8%B4%D8%B1%D9%88%D8%B9-%D8%A8%D9%87-%DA%A9%D8%A7%D8%B1/</link>
+      <pubDate>Wed, 09 Mar 2016 00:11:02 +0100</pubDate>
+      
+      <guid>http://hpc.tafreshu.ac.ir/docs/%D8%B4%D8%B1%D9%88%D8%B9-%D8%A8%D9%87-%DA%A9%D8%A7%D8%B1/</guid>
+      <description>
+
+&lt;h2 id=&#34;ورود-به-سامانه-کلاستر-از-ویندوز&#34;&gt;ورود به سامانه کلاستر (از ویندوز)&lt;/h2&gt;
+
+&lt;p&gt;روش ورود به کلاستر با اس‌اس‌اچ است. برای ورود در کامپیوترهای ویندوزی باید نرم‌افزار &lt;a href=&#34;https://the.earth.li/~sgtatham/putty/latest/x86/putty-0.67-installer.msi&#34;&gt;پاتی&lt;/a&gt;
+را دانلود نمایید&lt;/p&gt;
+
+&lt;p&gt;بعد از دانلود مطابق عکس آدرس‌های زیر را وارد کنید&lt;/p&gt;
+
+&lt;div style=&#34;text-align:center&#34;&gt;&lt;img src =&#34;putty/putty-login-screen.png&#34; /&gt;&lt;/div&gt;
+
+&lt;p&gt;به جای فلس باید عبارت زیر را وارد کنید و به جای &lt;strong&gt;یوزرنیم&lt;/strong&gt; عبارتی که برای شما به عنوان نام کاربری ذکر شده است را وارد کنید&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;USERNAME@login.hpc.tafreshu.ac.ir
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;بعد از درخواست، &lt;strong&gt;پسورد آن را وارد کنید&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;ورود-به-سامانه-کلاستر-از-گنو-لینوکس&#34;&gt;ورود به سامانه کلاستر (از گنو/لینوکس)&lt;/h2&gt;
+
+&lt;p&gt;کافی است در خط فرمان دستور زیر را وارد و به جای &lt;strong&gt;یوزرنیم&lt;/strong&gt; نام کاربری خود را بزنید&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;ssh USERNAME@login.hpc.tafreshu.ac.ir
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;بعد از درخواست، &lt;strong&gt;پسورد آن را وارد کنید&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;موفقیت-بعد-از-ورود&#34;&gt;موفقیت بعد از ورود&lt;/h2&gt;
+
+&lt;p&gt;اگر شما وارد کلاستر شدید به شما پیام خوش‌امد گویی می‌دهد. لطفا قبل از کار با آن &lt;a href=&#34;http://hpc.tafreshu.ac.ir/docs/%D9%82%D9%88%D8%A7%D9%86%DB%8C%D9%86/&#34;&gt;قوانین&lt;/a&gt; را به دقت بخوانید&lt;/p&gt;
+
+&lt;h2 id=&#34;برنامه-ها-نصب-شده&#34;&gt;برنامه‌ها نصب شده&lt;/h2&gt;
+
+&lt;p&gt;کلاستر صالحی یک کلاستر یک‌پارچه است؛ به این معنا که انجام وظیفه برنامه شما ممکن است توسط هر کامپیوتر رخ دهد که خالی باشد.
+این چندین خوبی و یک بدی نیز دارد.
+بدی آن این است که برنامه‌ها تنها توسط ما باید نصب گردد. زیرا این ماشین با مجازی ساز کار نمی کند تا شما بتوانید ماشین خود را تنظیم کنید. شاید
+با خود بگویید که خوب نباشد اما این گونه نیست. فرض کنید ما کلاستر را به ۲۰ ماشین مجازی تقسیم کنیم؛ در این صورت
+شما تنها می‌توانید از ماشین خود استفاده کنید و خیلی محدود. حال که در سامانه ما شما به تمام ماشین‌ها دسترسی دارید و هنگامی که خالی باشد برنامه شما
+روی کل ماشین اجرا می‌گردد&lt;/p&gt;
+
+&lt;p&gt;لیست برنامه‌های نصب شده&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;center&#34;&gt;Software&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;Version&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Quantum Espresso&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;5.1&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;SIESTA&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;4.0&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;MATLAB&amp;reg;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;R2014b&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&#34;سامانه-مدیریت-جاب&#34;&gt;سامانه مدیریت جاب&lt;/h2&gt;
+
+&lt;p&gt;کلاستر شاهرود از سامانه مدیریت جاب بسیار قدرتمند بهره می‌برد که تاکنون در کشور از آن استفاده نشده. این سامانه همانند &lt;a href=&#34;https://en.wikipedia.org/wiki/TORQUE&#34;&gt;تورک&lt;/a&gt; است ولی قدرت بسیار بیشتری دارد&lt;/p&gt;
+
+&lt;p&gt;هدف از طراحی این وب‌سایت روش استفاده از این سامانه است.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
